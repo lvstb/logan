@@ -1,6 +1,6 @@
-[![Release](https://img.shields.io/github/release/glnds/masl.svg?style=flat)](https://github.com/glnds/masl/releases/latest)
+#[![Release](https://img.shields.io/github/release/glnds/masl.svg?style=flat)](https://github.com/glnds/masl/releases/latest)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](/LICENSE)
-[![Go Report Card](https://goreportcard.com/badge/github.com/glnds/masl)](https://goreportcard.com/report/github.com/glnds/masl)
+#[![Go Report Card](https://goreportcard.com/badge/github.com/glnds/masl)](https://goreportcard.com/report/github.com/glnds/masl)
 
 # logan
 
@@ -30,7 +30,7 @@
 
 ## Versioning
 
-[SemVer](http://semver.org/) is used for versioning. For the versions available, see the [tags on this repository](https://github.com/glnds/masl/tags).
+#[SemVer](http://semver.org/) is used for versioning. For the versions available, see the [tags on this repository](https://github.com/glnds/masl/tags).
 
 ## FAQ
 
